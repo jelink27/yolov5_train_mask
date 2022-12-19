@@ -1,0 +1,9 @@
+# train and val data 每次訓練檢查存放位置
+train: /content/FaceMaskDataset/images/train/
+val: /content/FaceMaskDataset/images/val/
+
+# number of classes
+nc: 2 #2類
+
+# class names
+names: ['face mask', 'No face mask']
